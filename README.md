@@ -1,15 +1,14 @@
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/logicvein/Playbooks/blob/bd5190a51b26ede992781fda4688f456f683bbb5/Logo-dk.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/logicvein/Playbooks/blob/bd5190a51b26ede992781fda4688f456f683bbb5/Logo-lt.png">
-    <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width=150 align="center">
-    &nbsp;Playbooks Repository
-  </picture>
-</h1>
+# LogicVein Playbook Examples
 
-This is [LogicVein's](https://logicvein.com) public repository for company and community contributed Playbooks for use in our Net LineDancer and ThirdEye Suite products. The repository is organized by Vendor and Operating System.
+This repository contains practical examples for extending and integrating LogicVein netLD and ThirdEye.  
 
-<br>
+Examples are intended to be reviewed and adapted for your environment: use appropriately, test changes safely, and protect credentials and exported data.
 
-> [!TIP]
-> If you have a Playbook that you would like to contribute, export the JSON file from the product and submit it here as a *Pull request*. A team member will review it, provide possible feedback, and merge it if it passes quality and correctness checks.
+
+## License and Support
+
+This repository is licensed under the [Apache License, Version 2.0](LICENSE).
+
+The examples are provided “AS IS,” without warranties of any kind, and are not eligible for technical support unless otherwise agreed in writing. We welcome reports of bugs and other issues found in the examples.
+
+These examples are not eligible for technical support coverage. By installing or using the example content on a licensed ThirdEye system, you acknowledge that you have read and agree to these terms of use.
